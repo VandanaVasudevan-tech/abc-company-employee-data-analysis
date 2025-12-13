@@ -3,7 +3,7 @@
 📌 Project Overview
 
 This project involves analyzing an employee dataset from ABC Company containing 458 records and 9 attributes. The goal is to preprocess the data, perform exploratory data analysis (EDA), and visualize key insights related to employee distribution, salary trends, and demographics across various teams.
-<img width="538" height="157" alt="image" src="https://github.com/user-attachments/assets/296b3830-4b14-4bfb-9191-ba31c4e4119b" />
+
 
 📂 Dataset Description
 
