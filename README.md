@@ -38,6 +38,9 @@ Most teams have a similar number of employees (around 14–16). Some teams like 
 
 
 
+
+
+
 2. Employee Segregation by Position
    
 Employees grouped by positions: PG, SG, SF, PF, C.
@@ -49,6 +52,9 @@ The number of employees in each position is fairly similar, indicating a balance
 
 
 <img width="743" height="527" alt="image" src="https://github.com/user-attachments/assets/0e096cf6-123c-4fdd-94d7-d79c0c55490f" />
+
+
+
 
 
 
@@ -64,6 +70,9 @@ The 18–25 age group has the highest number of employees, indicating that the w
 
 
 <img width="745" height="536" alt="image" src="https://github.com/user-attachments/assets/708c435e-0811-4b14-8cd3-7ad5b3f394ab" />
+
+
+
 
 
 
@@ -85,7 +94,12 @@ The C (Center) position has the highest salary expenditure, reflecting higher co
 
 <img width="1491" height="660" alt="image" src="https://github.com/user-attachments/assets/1abd56e6-e00c-41d2-8ac7-2ce2a4a766d9" />
 
+
+
 <img width="1500" height="658" alt="image" src="https://github.com/user-attachments/assets/5237c88f-ae3f-4aa6-99cb-5c7c8733b939" />
+
+
+
 
 
 
@@ -99,6 +113,9 @@ The scatter plot shows a very weak relationship between age and salary. This ind
 
 
 <img width="792" height="631" alt="image" src="https://github.com/user-attachments/assets/748cd78e-9ffe-4b27-a76f-b5d01f3f4a2a" />
+
+
+
 
 
 📌Technologies Used
